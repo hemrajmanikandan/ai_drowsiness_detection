@@ -1,0 +1,1 @@
+A= int(input("wenter a number:"))
